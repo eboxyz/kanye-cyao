@@ -1,1 +1,13 @@
-/* Empty. Add your own CSS if you like */
+#headBar{
+  font-size: 1.6em;
+  text-align: center;
+  border: 2px solid;
+}
+
+#kanye{
+  border: 2px solid;
+}
+
+#eventImg{
+  border: 2px solid;
+}
