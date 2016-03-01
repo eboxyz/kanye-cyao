@@ -11,3 +11,15 @@
 #eventImg{
   border: 2px solid;
 }
+
+#option1{
+  border: 2px solid;
+}
+
+#option2{
+  border: 2px solid;
+}
+
+#bg{
+  background: url("../img/kanyeBear.jpg") no-repeat center center fixed;
+}
